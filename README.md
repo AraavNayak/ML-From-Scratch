@@ -1,6 +1,6 @@
 # ML-From-Scratch
 
-This repository tracks my deep dive into Computer Science and Data Science starting from the basics, and serves as a journal of my exploration and progress in various facets of each field.
+This repository tracks my deep dive into Computer Science and Data Science starting from the basics, and serves as a marker of my exploration and progress in various facets of each field.
 
 
 To make a virtual evnvironment:
